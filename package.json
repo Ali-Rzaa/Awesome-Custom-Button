@@ -1,0 +1,22 @@
+{
+  "name": "react-native-awesomecustombutton",
+  "version": "1.0.0",
+  "description": "Create your own custom button with eas using this package🎉",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Button",
+    "Custom",
+    "Button"
+  ],
+  "author": "Ali Raza",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.1",
+    "react-native-paper": "^5.11.6",
+    "react-native-responsive-fontsize": "^0.5.1"
+  }
+}
