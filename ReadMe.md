@@ -25,13 +25,13 @@ Use our custom reusable light weight button for your ease.🙌
 Install `Awesome Custom Button` with npm
 
 ```bash
-  npm install react-native-awesomecustombutton
+  npm install react-native-awesome-custombutton
 ```
     
 ## Usage/Examples
 
 ```javascript
-import Button from 'react-native-awesomecustomebutton'
+import Button from 'react-native-awesome-customebutton'
 
 function App() {
   return 
