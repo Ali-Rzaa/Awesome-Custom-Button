@@ -1,6 +1,6 @@
 {
   "name": "react-native-awesome-custombutton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create your own custom button with eas using this package🎉",
   "main": "index.tsx",
   "scripts": {
@@ -22,5 +22,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ali-Rzaa/Awesome-Custom-Button.git"
-  },
+  }
 }
